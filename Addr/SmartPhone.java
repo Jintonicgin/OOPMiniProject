@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class SmartPhone {
 	
-	Addr[] people = new Addr[9];
+	Addr[] people = new Addr[10];
 	
 	
 	public Addr inputAddrData() {
