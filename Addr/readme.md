@@ -30,10 +30,9 @@ Users can add, update, delete, and view contacts via a basic text-based interfac
 
 ## 프로젝트 구조 (Project Structure)
 OOPMiniProject
-
-Addr.java # 연락처 정보를 담당하는 데이터 클래스
-SmartPhone.java # 연락처 관리 로직
-SmartPhoneMain.java # 실행 메인 클래스
+- Addr.java # 연락처 정보를 담당하는 데이터 클래스
+- SmartPhone.java # 연락처 관리 로직
+- SmartPhoneMain.java # 실행 메인 클래스
 
 
 
