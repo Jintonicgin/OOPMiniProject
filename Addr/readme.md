@@ -39,6 +39,15 @@ OOPMiniProject/
 ---
 
 ## 실행 방법 (How to Run)
-```bash
-javac SmartPhoneMain.java
-java SmartPhoneMain
+1. 이 저장소를 클론하거나 `.java` 파일들을 한 폴더에 저장합니다.
+2. 터미널 또는 명령 프롬프트(cmd)를 열고 해당 폴더로 이동합니다.
+3. 다음 명령어를 입력하여 모든 `.java` 파일을 컴파일합니다:
+   ```bash
+   javac *.java
+   
+4. 메인 클래스를 실행합니다.
+   java SmartPhoneMain
+
+이 프로그램은 텍스트 기반 콘솔 환경에서 동작하며, 메뉴를 통해 연락처를 추가, 조회, 삭제할 수 있습니다
+
+
