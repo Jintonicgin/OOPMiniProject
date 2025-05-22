@@ -46,6 +46,7 @@ OOPMiniProject/
    javac *.java
    
 4. 메인 클래스를 실행합니다.
+   ```bash
    java SmartPhoneMain
 
 이 프로그램은 텍스트 기반 콘솔 환경에서 동작하며, 메뉴를 통해 연락처를 추가, 조회, 삭제할 수 있습니다
